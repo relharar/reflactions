@@ -1,0 +1,4 @@
+what happens when you initialize a repository? Whay do you need to do it?
+if i want to use git to track my project
+
+how...
