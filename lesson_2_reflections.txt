@@ -2,3 +2,14 @@ what happens when you initialize a repository? Whay do you need to do it?
 if i want to use git to track my project
 
 how...
+
+How can you use the staging area to make sure you have one commit per logical change?
+i can add to staging area only one logical subject changes than commit them all togeter
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+in case i want to do some experimental stuff , and still keep the main version .
+
+How do the diagrams help you visualize the branch structure?
+it lets you see wich commits are accsessable by each branch
+
+What are the pros and cons if gits automatic merging vs. a;ways doing merges manually? con is that gis cam make a mistake with out us noticing also it takes lots of proccesing tring to figureout the needed change , pros is that it can save time .
