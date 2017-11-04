@@ -4,3 +4,10 @@ when i will work on a shered project with multiple contributers
 
 why might yuo want to alwaways pull changes manually rether having Git automaticly stay up to date with yure remote reposetory ?
 so yo can change and decide on the commits youd like to share .
+
+describe the diffrences between forks, clone, and branches. when would you use one istead of another?
+forks are made on github and it is making a copy of another github repositories to your account like that you can maintain your version of the project.
+clones is makng a copy of a repositorie local or remote to your local computer we will use it when we will want wo work on a project localy.
+braches are made on a local repositorie to allow us to work on changes out side the existing branch.
+
+
