@@ -10,4 +10,6 @@ forks are made on github and it is making a copy of another github repositories 
 clones is makng a copy of a repositorie local or remote to your local computer we will use it when we will want wo work on a project localy.
 braches are made on a local repositorie to allow us to work on changes out side the existing branch.
 
+what is the benfit of having a copy of the last known state of the remote stored locally ?
+we can go thtogh the diff offline 
 
