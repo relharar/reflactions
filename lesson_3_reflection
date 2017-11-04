@@ -13,3 +13,6 @@ braches are made on a local repositorie to allow us to work on changes out side 
 what is the benfit of having a copy of the last known state of the remote stored locally ?
 we can go thtogh the diff offline 
 
+How would you collaborate without |Git or Github? whet would be easyer , and what would be harder.
+i would snd the changes that i wand to the persson i colabarationg with and one will be in charge of commiting to master, it is eazyer to collaborate using github
+
