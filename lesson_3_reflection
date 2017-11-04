@@ -16,3 +16,7 @@ we can go thtogh the diff offline
 How would you collaborate without |Git or Github? whet would be easyer , and what would be harder.
 i would snd the changes that i wand to the persson i colabarationg with and one will be in charge of commiting to master, it is eazyer to collaborate using github
 
+when would you want to make changes in a sparate branch rether then directly in master ? what benefits does each approch have?
+when working on a featur that is not nessesary will be added to master or when i want to colaborate and want someone else to reviw my chnges wile mrging by setting a pull request
+
+
